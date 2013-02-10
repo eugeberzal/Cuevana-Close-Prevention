@@ -1,10 +1,10 @@
 {
 	"extensionDescription":{
-		"message": "Esta estexnsión te advierte antes de cerrar una ventana con una película o serie de tv del sitio Cuevana.tv.",
+		"message": "Esta extensión te advierte antes de cerrar una ventana con una película o serie de tv del sitio Cuevana.tv.",
 		"description": "Extension description"
 	},
 	"popMessage":{
-		"message": "Estas cerrando la ventanda, es posible que pierdas la pelicula/serie de tv. Estas seguro?",
+		"message": "ESTAS CERRANDO LA VENTANA, ES POSIBLE QUE PIEDAS LA PELICULA O SERIE DE TV DE CUEVANA QUE ESTAS CARGANDO. ESTAS SEGURO??",
 		"description": "The pop up message"
 	},
 	"optionspage_p1":{
