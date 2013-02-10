@@ -10,7 +10,6 @@
 	"permissions": ["tabs", "http://www.cuevana.tv/*"],
 	"content_scripts": [
 	    {
-	      // "matches": ["http://www.cuevana.tv/#!/series/*/*/*/*", "http://www.cuevana.tv/#!/peliculas/*/*/*/*", "http://www.cuevana.tv/#!/cortos/*/*/*/*"],
 	      "matches": ["http://www.cuevana.tv/*"],
 	      "js": ["js/main.js"]
 	    }
