@@ -1,13 +1,17 @@
 {
 	"name": "Cuevana Close Prevention Popup",
-	"version": "1.1.3",
+	"manifest_version": 2,
+	// extension version
+	"version": "1.1.4",
 	"description": "This extension prevents users to close the tab where a movie or serie is being loaded from Cuevana.tv site.
 	",
+	// icons to display in the extensions admin and chrome web store
 	"icons": { "128": "img/icon128.png" },
-	"permissions": ["tabs", "http://*/*"],
+	// permissions to access data in the browser
+	"permissions": ["tabs", "http://www.cuevana.tv/*"],
 	"content_scripts": [
 	    {
-	      "matches": ["http://www.cuevana.tv/#!/series/*/*/*", "http://www.cuevana.tv/#!/peliculas/*/*/*", "http://www.cuevana.tv/#!/cortos/*/*/*"],
+	      "matches": ["http://www.cuevana.tv/#!/series/*/*/*/*", "http://www.cuevana.tv/#!/peliculas/*/*/*/*", "http://www.cuevana.tv/#!/cortos/*/*/*/*"],
 	      "js": ["js/main.js"]
 	    }
 	  ],
