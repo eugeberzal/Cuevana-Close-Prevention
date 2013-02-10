@@ -1,0 +1,22 @@
+{
+	"extensionDescription":{
+		"message": "Esta estexnsión te advierte antes de cerrar una ventana con una serie o película del sitio Cuevana.tv.",
+		"description": "Extension description"
+	},
+	"popMessage":{
+		"message": "ESTAS POR CERRAR LA VENTANA Y ES POSIBLE QUE PIERDAS LA SERIE/PELICULA DE CUEVANA! ESTAS SEGURO??",
+		"description": "The pop up message"
+	},
+	"optionspage_p1":{
+		"message": "Por ahora no hay opciones, ya que la extensión no tiene mas características que el popup por ahora.",
+		"description": ""
+	},
+	"optionspage_p2":{
+		"message": "Los invito a dejarme una donación así me tomo un <strong>cafe</strong> (si me levante temprano) o una <strong>cerveza</strong> (si es la tarde-noche). Pueden hacerlo en el botón aquí abajo:",
+		"description": ""
+	},
+	"theimg":{
+		"message":"img/popup_es.png",
+		"description":"Example image"
+	}
+}
