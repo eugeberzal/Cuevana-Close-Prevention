@@ -1,10 +1,10 @@
 {
 	"extensionDescription":{
-		"message": "This extension prevents users to close the tab where a movie or serie is being loaded from Cuevana.tv site.",
+		"message": "This extension prevents users to close the tab where a movie or tv series is being loaded from Cuevana.tv site.",
 		"description": "Extension description"
 	},
 	"popMessage":{
-		"message": "You are closing the window, you may lose the serie/movie. Are you sure??",
+		"message": "You are closing the window, you may lose the movie/tv series. Are you sure?",
 		"description": "The pop up message"
 	},
 	"optionspage_p1":{
@@ -12,7 +12,7 @@
 		"description": ""
 	},
 	"optionspage_p2":{
-		"message": "If you want to you help me to buy <strong>a coffe</strong> (if it's by morning) or <strong>a beer</strong> (if it's by nigth). Just press the botton below:",
+		"message": "You can buy me <strong>a coffe</strong> (cause it's early in the morning) or <strong>a beer</strong> (to relax in the evening). Just press the botton below:",
 		"description": ""
 	},
 	"theimg":{
