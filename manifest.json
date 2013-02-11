@@ -1,12 +1,9 @@
 {
 	"name": "Cuevana Close Prevention Popup",
 	"manifest_version": 2,
-	// extension version
-	"version": "1.1.4",
+	"version": "1.2.1",
 	"description": "__MSG_extensionDescription__",
-	// icons to display in the extensions admin and chrome web store
 	"icons": { "128": "img/icon128.png" },
-	// permissions to access data in the browser
 	"permissions": ["tabs", "http://www.cuevana.tv/*"],
 	"content_scripts": [
 	    {
