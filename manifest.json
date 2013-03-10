@@ -1,7 +1,7 @@
 {
 	"name": "Cuevana Close Prevention Popup",
 	"manifest_version": 2,
-	"version": "1.2.2",
+	"version": "1.2.3",
 	"description": "__MSG_extensionDescription__",
 	"icons": { "128": "img/icon128.png" },
 	"permissions": ["tabs", "http://www.cuevana.tv/*"],
